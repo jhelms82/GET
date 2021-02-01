@@ -1,0 +1,44 @@
+body {
+  width: 1600px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+p {
+  padding: 10px;
+  margin: 10px;
+}
+
+.get {
+    color: red;
+    margin-top: 250px;
+    text-align: center;
+}
+
+#data {
+  width:200px;
+  padding:20px
+  
+
+}
+
+#button {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+header {
+height: 25px;
+width: 1550px;
+text-align: center;
+
+  color: red;
+  background-color: black;
+}
